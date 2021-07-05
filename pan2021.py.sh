@@ -1,0 +1,2 @@
+#python3.6 pan2021.py -i /home/usuario/projetos/pan21-author-profiling-test-without-gold-for-participants -o saida_pan/en
+python3.6 pan2021.py -i /home/usuario/projetos/pan21-author-profiling-test-without-gold-for-participants -o saida_pan/es

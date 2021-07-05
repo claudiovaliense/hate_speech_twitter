@@ -1,0 +1,32 @@
+Name Dataset: pan21-author-profiling-training-2021-03-142en_word_tfidf
+Best_param_folds: []
+Macro F1 por fold: [0.6698412698412699, 0.5747342088805503, 0.6228786926461345, 0.7737272155876807, 0.6747967479674797]
+Micro F1 por fold: [0.675, 0.575, 0.625, 0.775, 0.675]
+Média Macro F1: 0.663195626984623
+Desvio padrão Macro F1: 0.07390341728159484
+Média Micro F1:  0.665
+Desvio padrão Micro F1: 0.07416198487095665
+Time method: 0
+y_pred = coluna, y_true = linhas
+FOLD 0
+     0.0  1.0
+0.0   11    9
+1.0    4   16
+FOLD 1
+     0.0  1.0
+0.0   11    9
+1.0    8   12
+FOLD 2
+     0.0  1.0
+0.0   14    6
+1.0    9   11
+FOLD 3
+     0.0  1.0
+0.0   14    6
+1.0    3   17
+FOLD 4
+     0.0  1.0
+0.0   14    6
+1.0    7   13
+
+pan21-author-profiling-training-2021-03-142en\_word\_tfidf\_classifier\_svm & 66.32$\pm$9.18\\
